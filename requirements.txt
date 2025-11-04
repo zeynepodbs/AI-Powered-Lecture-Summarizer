@@ -1,0 +1,10 @@
+# requirements.txt
+
+PyMuPDF
+python-docx
+nltk
+sumy
+transformers
+torch
+sentencepiece
+rouge-score
