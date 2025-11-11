@@ -135,7 +135,7 @@ def summarize_abstractive(text_to_summarize):
 # --- C. Ana Uygulama (Summary Generation) ---
 
 def main():
-    FILE_PATH = "data/level_1_-_The_Adventures_of_Tom_Sawyer_-_Penguin_Readers-min.pdf"
+    FILE_PATH = "data/level_1_-_The_Adventures_of_Tom_Sawyer_-_Penguin_Readers-min.pdf" 
     
     try:
         print(f"'{FILE_PATH}' dosyası yükleniyor...")
